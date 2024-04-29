@@ -1,7 +1,7 @@
 # Hello, I'm John Dawson
 <a href="https://www.linkedin.com/in/john-dawson-627b29214"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an IT Support Specialist at InVision Technology Solutions, a leading IT service provider for small and medium businesses. I hold the CompTIA A+ and Security+ certifications, demonstrating my proficiency in IT fundamentals, network management, and cybersecurity.
+I am an IT Support Specialist at InVision Technology Solutions, a leading IT service provider for small and medium businesses. I hold the CompTIA A+, Security+, Network+, CSIS, and CIOS certifications, demonstrating my proficiency in IT fundamentals, network management, and cybersecurity.
 
 I provide high-quality and timely support to our clients, ensuring that their IT systems and workflows are functioning smoothly and efficiently. I have strong skills in support, Servers and Active Directory, Networking, documentation through ITGlue, and hardware. I have experience in working with various IT platforms and tools, such as ZoHO, Fresh-desk, Office 365, Azure AD, RingCentral, and Cisco Meraki. I have also worked in the medical and utility sectors, testing and repairing large water meters and supporting medical facilities across Arizona.
 
